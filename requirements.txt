@@ -1,0 +1,7 @@
+numpy
+keras
+tensorflow-gpu
+progressbar33
+pillow
+h5py
+scikit-learn
